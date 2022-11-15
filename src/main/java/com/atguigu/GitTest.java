@@ -1,4 +1,6 @@
 package com.atguigu;
+
+
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("Git!!!!");
@@ -7,5 +9,8 @@ public class GitTest {
         System.out.println("hot-fix");
         System.out.println("master3");
         System.out.println("master4");
+        System.out.println("hot-fix2");
+        System.out.println("hot-fix3");
+        System.out.println("hot-fix4");
     }
 }
