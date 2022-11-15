@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("二次修改");
         System.out.println("三次修改");
         System.out.println("hot-fix2");
+        System.out.println("hot-fix3");
     }
 }
